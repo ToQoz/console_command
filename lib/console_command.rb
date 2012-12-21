@@ -1,0 +1,2 @@
+module ConsoleCommand
+end
