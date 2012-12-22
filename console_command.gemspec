@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Takatoshi Matsumoto"]
   s.email       = ["toqoz403@gmail.com"]
   s.homepage    = "http://github.com/ToQoz/console_command"
-  s.summary     = "This is Rails plugin for defining command in rails console(pry and irb.)"
-  s.description = "This is Rails plugin provides DSL for defining command in rails console(pry and irb.)"
+  s.summary     = "This is Rails plugin provides DSL for adding command in `rails console` (pry and irb.)"
+  s.description = "This Rails plugin is enable to add command easily to `rails console` even if it is using which of pry and irb"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
